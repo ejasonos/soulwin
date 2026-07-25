@@ -105,11 +105,9 @@ SoulWin provides:
 
 ## Frontend
 
-- TanStack Start
-- React
+- NextJS
 - Tailwind CSS
 - Zustand
-- TanStack Query
 
 ---
 
