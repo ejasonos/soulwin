@@ -1,0 +1,9 @@
+.next
+node_modules
+.env
+.env*
+node_modules/
+.turbo
+package-lock.json
+.pnpm*
+pnpm-lock.yaml
